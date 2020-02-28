@@ -1,0 +1,17 @@
+.mercado {
+    display: flex;
+    flex-direction: column;
+}
+
+.mercado-publicidade {
+    width: 100%;
+    height: 300px;
+    /*border:red solid 1px;*/
+}
+
+.mercado-publicidade img {
+    width: 30%;
+    height: 300px;
+    margin-left: 450px;
+    
+}
