@@ -1,0 +1,41 @@
+.footer {
+    background-color: slateblue;
+    width: 100%;
+    height: 60px;
+    margin-top: 30px;
+    color: white;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-p {
+    /*border: solid 1px red;*/
+    width: 30%;
+}
+
+.button {
+    /*border: solid 1px red;*/
+    width: 30%;
+    
+}
+p.ppppp {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    text-align: center;
+}
+
+.button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+img.whatsapp {
+    width: 17px;
+    height: 17px;
+}
